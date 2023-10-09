@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import Header from "./header";
-import Content from "./content";
-import Images from "./images";
+import Header from "./components/header";
+import Content from "./components/content";
+import Images from "./components/images";
 import { gsap, Power3 } from "gsap";
 
 function App() {

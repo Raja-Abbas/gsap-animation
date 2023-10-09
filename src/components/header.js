@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from "react";
-import "./Header.css";
+import "../styles/Header.css";
 
 function Header({ timeline, ease }) {
   let logo = useRef(null);

@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from "react";
-import "./Images.css";
+import "../styles/Images.css";
 
 function Images({ timeline, ease }) {
   let image1 = useRef(null);
